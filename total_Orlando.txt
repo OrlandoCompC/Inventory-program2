@@ -1,0 +1,10 @@
+Orange 2990.0
+Apple 9950.0
+Banana 735.0
+Milk 3750.0
+Cheese 12600.0
+Yogurt 3850.0
+Carrot 3382.0
+Celery 3950.1000000000004
+Bean 6750.0
+Potato 6000.0
